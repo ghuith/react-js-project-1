@@ -36,6 +36,7 @@ function App() {
         </Navbar.Collapse> 
       </Container>
     </Navbar>
+    
 
 
     <div className='cardslist'>
@@ -77,10 +78,17 @@ function App() {
     </Card>
     </div>
 
-      </div>
-
 
       </div>
+      <div>
+
+
+        <p>Discover timeless elegance with our exclusive collection of watches, designed to complement every style and occasion. Crafted with precision and sophistication, our timepieces combine functionality with unmatched durability. Whether you’re looking for a statement piece or an everyday essential, our watches offer the perfect blend of luxury and practicality.</p>
+
+      </div>
+
+      </div>
+      
       
      
     
